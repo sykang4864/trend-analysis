@@ -1,0 +1,10 @@
+fintech	0.3432
+infrastructure	0.3268
+innovation	0.3226
+bank	0.2785
+blocktech	0.2597
+blockchain	0.2516
+fraudsters	0.2488
+innovator	0.2483
+ledger	0.2474
+card	0.2419

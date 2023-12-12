@@ -1,0 +1,1363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="long"/>
+<graph edgedefault="undirected"><node id="디지털">
+  <data key="d0">244</data>
+</node>
+<node id="통화">
+  <data key="d0">225</data>
+</node>
+<node id="발행">
+  <data key="d0">185</data>
+</node>
+<node id="중앙은행">
+  <data key="d0">137</data>
+</node>
+<node id="데이터">
+  <data key="d0">201</data>
+</node>
+<node id="빅">
+  <data key="d0">76</data>
+</node>
+<node id="화폐">
+  <data key="d0">103</data>
+</node>
+<node id="은행">
+  <data key="d0">369</data>
+</node>
+<node id="혁신">
+  <data key="d0">188</data>
+</node>
+<node id="핀테크">
+  <data key="d0">307</data>
+</node>
+<node id="보안">
+  <data key="d0">126</data>
+</node>
+<node id="사이버">
+  <data key="d0">63</data>
+</node>
+<node id="스테이블">
+  <data key="d0">57</data>
+</node>
+<node id="코인">
+  <data key="d0">61</data>
+</node>
+<node id="전환사채">
+  <data key="d0">26</data>
+</node>
+<node id="암호화폐">
+  <data key="d0">116</data>
+</node>
+<node id="법">
+  <data key="d0">188</data>
+</node>
+<node id="중국">
+  <data key="d0">67</data>
+</node>
+<node id="블록체인">
+  <data key="d0">265</data>
+</node>
+<node id="분산">
+  <data key="d0">85</data>
+</node>
+<node id="비트코인">
+  <data key="d0">119</data>
+</node>
+<node id="계좌">
+  <data key="d0">60</data>
+</node>
+<node id="역외">
+  <data key="d0">19</data>
+</node>
+<node id="재판">
+  <data key="d0">19</data>
+</node>
+<node id="카드">
+  <data key="d0">138</data>
+</node>
+<node id="신용">
+  <data key="d0">82</data>
+</node>
+<node id="연방">
+  <data key="d0">41</data>
+</node>
+<node id="이노베이션">
+  <data key="d0">45</data>
+</node>
+<node id="오픈">
+  <data key="d0">101</data>
+</node>
+<node id="신주인수권">
+  <data key="d0">25</data>
+</node>
+<node id="지급결제">
+  <data key="d0">183</data>
+</node>
+<node id="한국은행">
+  <data key="d0">57</data>
+</node>
+<node id="인공지능">
+  <data key="d0">116</data>
+</node>
+<node id="벤처">
+  <data key="d0">22</data>
+</node>
+<node id="경로">
+  <data key="d0">12</data>
+</node>
+<node id="예금">
+  <data key="d0">85</data>
+</node>
+<node id="가상화폐">
+  <data key="d0">115</data>
+</node>
+<node id="도드">
+  <data key="d0">16</data>
+</node>
+<node id="프랭크">
+  <data key="d0">16</data>
+</node>
+<node id="인터넷">
+  <data key="d0">127</data>
+</node>
+<node id="수수료">
+  <data key="d0">35</data>
+</node>
+<node id="네트워크">
+  <data key="d0">91</data>
+</node>
+<node id="송금">
+  <data key="d0">88</data>
+</node>
+<node id="공격">
+  <data key="d0">36</data>
+</node>
+<node id="이원">
+  <data key="d0">26</data>
+</node>
+<node id="준거법">
+  <data key="d0">14</data>
+</node>
+<node id="책임">
+  <data key="d0">50</data>
+</node>
+<node id="단어">
+  <data key="d0">27</data>
+</node>
+<node id="증권">
+  <data key="d0">92</data>
+</node>
+<node id="국경">
+  <data key="d0">22</data>
+</node>
+<node id="빅데이터">
+  <data key="d0">51</data>
+</node>
+<node id="자산">
+  <data key="d0">115</data>
+</node>
+<node id="리">
+  <data key="d0">21</data>
+</node>
+<node id="테일">
+  <data key="d0">10</data>
+</node>
+<node id="스마트폰">
+  <data key="d0">52</data>
+</node>
+<node id="위조">
+  <data key="d0">52</data>
+</node>
+<node id="법정통화">
+  <data key="d0">41</data>
+</node>
+<node id="보험">
+  <data key="d0">42</data>
+</node>
+<node id="혁명">
+  <data key="d0">57</data>
+</node>
+<node id="스웨덴">
+  <data key="d0">24</data>
+</node>
+<node id="모바일">
+  <data key="d0">97</data>
+</node>
+<node id="부사">
+  <data key="d0">17</data>
+</node>
+<node id="테크놀로지">
+  <data key="d0">40</data>
+</node>
+<node id="자금세탁">
+  <data key="d0">71</data>
+</node>
+<node id="가상자산">
+  <data key="d0">84</data>
+</node>
+<node id="페이스북">
+  <data key="d0">44</data>
+</node>
+<node id="리브">
+  <data key="d0">28</data>
+</node>
+<node id="틀">
+  <data key="d0">27</data>
+</node>
+<node id="견고성">
+  <data key="d0">30</data>
+</node>
+<node id="옴니">
+  <data key="d0">11</data>
+</node>
+<node id="대두">
+  <data key="d0">33</data>
+</node>
+<node id="암호자산">
+  <data key="d0">46</data>
+</node>
+<node id="독일">
+  <data key="d0">35</data>
+</node>
+<node id="상">
+  <data key="d0">26</data>
+</node>
+<node id="사채">
+  <data key="d0">13</data>
+</node>
+<node id="무현금">
+  <data key="d0">57</data>
+</node>
+<node id="현금통화">
+  <data key="d0">6</data>
+</node>
+<node id="빅테크">
+  <data key="d0">37</data>
+</node>
+<node id="응답자">
+  <data key="d0">14</data>
+</node>
+<node id="가구">
+  <data key="d0">12</data>
+</node>
+<node id="차원">
+  <data key="d0">22</data>
+</node>
+<node id="국회">
+  <data key="d0">34</data>
+</node>
+<node id="환어음">
+  <data key="d0">27</data>
+</node>
+<node id="카드사">
+  <data key="d0">28</data>
+</node>
+<node id="채">
+  <data key="d0">12</data>
+</node>
+<node id="실험">
+  <data key="d0">24</data>
+</node>
+<node id="수입자">
+  <data key="d0">26</data>
+</node>
+<node id="선적">
+  <data key="d0">26</data>
+</node>
+<node id="서류">
+  <data key="d0">26</data>
+</node>
+<node id="대금">
+  <data key="d0">28</data>
+</node>
+<node id="인출">
+  <data key="d0">34</data>
+</node>
+<node id="개발자">
+  <data key="d0">17</data>
+</node>
+<node id="암호">
+  <data key="d0">49</data>
+</node>
+<node id="성질">
+  <data key="d0">10</data>
+</node>
+<node id="가맹점">
+  <data key="d0">23</data>
+</node>
+<node id="매입">
+  <data key="d0">22</data>
+</node>
+<node id="유동">
+  <data key="d0">34</data>
+</node>
+<node id="펀드">
+  <data key="d0">38</data>
+</node>
+<node id="분쟁">
+  <data key="d0">42</data>
+</node>
+<node id="접점">
+  <data key="d0">19</data>
+</node>
+<node id="창조">
+  <data key="d0">19</data>
+</node>
+<node id="P2P">
+  <data key="d0">33</data>
+</node>
+<node id="주법">
+  <data key="d0">13</data>
+</node>
+<node id="최첨단">
+  <data key="d0">10</data>
+</node>
+<node id="인도">
+  <data key="d0">34</data>
+</node>
+<node id="성능">
+  <data key="d0">37</data>
+</node>
+<node id="스마트">
+  <data key="d0">52</data>
+</node>
+<node id="증거">
+  <data key="d0">9</data>
+</node>
+<node id="토큰">
+  <data key="d0">47</data>
+</node>
+<node id="대신">
+  <data key="d0">33</data>
+</node>
+<node id="글로벌">
+  <data key="d0">57</data>
+</node>
+<node id="통합">
+  <data key="d0">48</data>
+</node>
+<node id="실시간">
+  <data key="d0">40</data>
+</node>
+<node id="발행자">
+  <data key="d0">20</data>
+</node>
+<node id="폰">
+  <data key="d0">29</data>
+</node>
+<node id="역량">
+  <data key="d0">14</data>
+</node>
+<node id="일종">
+  <data key="d0">13</data>
+</node>
+<node id="차이">
+  <data key="d0">18</data>
+</node>
+<node id="휴대폰">
+  <data key="d0">38</data>
+</node>
+<node id="특정금융정보법">
+  <data key="d0">31</data>
+</node>
+<node id="부동산">
+  <data key="d0">18</data>
+</node>
+<node id="인정">
+  <data key="d0">40</data>
+</node>
+<node id="채무">
+  <data key="d0">21</data>
+</node>
+<node id="종래">
+  <data key="d0">44</data>
+</node>
+<node id="심리">
+  <data key="d0">20</data>
+</node>
+<node id="테러">
+  <data key="d0">28</data>
+</node>
+<node id="노드">
+  <data key="d0">16</data>
+</node>
+<node id="융합">
+  <data key="d0">16</data>
+</node>
+<node id="알리바바">
+  <data key="d0">13</data>
+</node>
+<node id="플랫폼">
+  <data key="d0">85</data>
+</node>
+<node id="부">
+  <data key="d0">23</data>
+</node>
+<node id="파생">
+  <data key="d0">45</data>
+</node>
+<node id="추심">
+  <data key="d0">29</data>
+</node>
+<node id="대출">
+  <data key="d0">66</data>
+</node>
+<node id="판례">
+  <data key="d0">35</data>
+</node>
+<node id="이론">
+  <data key="d0">33</data>
+</node>
+<node id="아이디어">
+  <data key="d0">25</data>
+</node>
+<node id="법원">
+  <data key="d0">17</data>
+</node>
+<node id="허용">
+  <data key="d0">37</data>
+</node>
+<node id="엔">
+  <data key="d0">24</data>
+</node>
+<node id="기초">
+  <data key="d0">24</data>
+</node>
+<node id="뱅크">
+  <data key="d0">34</data>
+</node>
+<node id="어카운트">
+  <data key="d0">24</data>
+</node>
+<node id="인터페이스">
+  <data key="d0">27</data>
+</node>
+<node id="마케팅">
+  <data key="d0">15</data>
+</node>
+<node id="조선">
+  <data key="d0">22</data>
+</node>
+<node id="가상통화">
+  <data key="d0">44</data>
+</node>
+<node id="가상계좌">
+  <data key="d0">13</data>
+</node>
+<node id="실명">
+  <data key="d0">25</data>
+</node>
+<node id="개혁">
+  <data key="d0">20</data>
+</node>
+<node id="위원회">
+  <data key="d0">45</data>
+</node>
+<node id="시행">
+  <data key="d0">28</data>
+</node>
+<node id="초월">
+  <data key="d0">15</data>
+</node>
+<node id="이성">
+  <data key="d0">12</data>
+</node>
+<node id="거래소">
+  <data key="d0">11</data>
+</node>
+<node id="트">
+  <data key="d0">20</data>
+</node>
+<edge source="디지털" target="통화">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="디지털" target="중앙은행">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="디지털" target="발행">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="디지털" target="화폐">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="디지털" target="은행">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="디지털" target="혁신">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="디지털" target="한국은행">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="디지털" target="지급결제">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="디지털" target="데이터">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="디지털" target="비트코인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="디지털" target="블록체인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="디지털" target="법정통화">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="디지털" target="네트워크">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="디지털" target="스웨덴">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="디지털" target="오픈">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="디지털" target="핀테크">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="디지털" target="인터넷">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="디지털" target="계좌">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="디지털" target="대신">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="디지털" target="실시간">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="디지털" target="단어">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="발행">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="통화" target="중앙은행">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="통화" target="은행">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="통화" target="화폐">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="통화" target="비트코인">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="통화" target="스웨덴">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="통화" target="네트워크">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="스테이블">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="가상화폐">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="자금세탁">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="엔">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="코인">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="대신">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="기초">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="통화" target="뱅크">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="중앙은행">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="발행" target="전환사채">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="발행" target="은행">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="발행" target="신주인수권">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="발행" target="화폐">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="발행" target="부사">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="발행" target="채">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="지급결제">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="블록체인">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="한국은행">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="페이스북">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="증권">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="사채">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="스웨덴">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="발행" target="부">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="은행">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="중앙은행" target="화폐">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="중앙은행" target="스테이블">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="지급결제">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="한국은행">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="무현금">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="코인">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="스웨덴">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="조선">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="대신">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중앙은행" target="뱅크">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="데이터" target="빅">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="데이터" target="중국">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="데이터" target="핀테크">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="데이터" target="인공지능">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="데이터" target="보안">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="데이터" target="블록체인">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="데이터" target="네트워크">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="데이터" target="성능">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="데이터" target="알리바바">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="데이터" target="혁명">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="데이터" target="오픈">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="데이터" target="최첨단">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="빅" target="중국">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="빅" target="핀테크">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="빅" target="인공지능">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="빅" target="최첨단">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="빅" target="알리바바">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="화폐" target="은행">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="화폐" target="지급결제">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="화폐" target="블록체인">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="계좌">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="은행" target="블록체인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="은행" target="예금">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="은행" target="카드">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="은행" target="송금">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="은행" target="이원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="은행" target="증권">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="은행" target="오픈">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="은행" target="지급결제">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="은행" target="혁신">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="은행" target="인터넷">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="은행" target="신용">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="은행" target="환어음">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="수입자">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="선적">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="서류">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="대금">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="연방">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="법">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="유동">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="펀드">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="휴대폰">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="추심">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="은행" target="주법">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="혁신" target="핀테크">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="혁신" target="블록체인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="혁신" target="오픈">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="혁신" target="한국은행">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="혁신" target="창조">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="혁신" target="역량">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="혁신" target="아이디어">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="벤처">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="핀테크" target="지급결제">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="핀테크" target="중국">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="핀테크" target="스마트폰">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="인공지능">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="보험">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="혁명">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="블록체인">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="테크놀로지">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="옴니">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="대두">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="빅테크">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="핀테크" target="가상화폐">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="송금">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="접점">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="인도">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="이노베이션">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="글로벌">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="통합">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="오픈">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="P2P">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="융합">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="대출">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="허용">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="핀테크" target="인터페이스">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="보안" target="사이버">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="보안" target="블록체인">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="보안" target="견고성">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="보안" target="심리">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="보안" target="공격">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="보안" target="분산">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="보안" target="차원">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="사이버" target="공격">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사이버" target="차원">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="스테이블" target="코인">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="전환사채" target="신주인수권">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="전환사채" target="부사">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="전환사채" target="채">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="전환사채" target="사채">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="전환사채" target="부">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="암호화폐" target="법">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="암호화폐" target="비트코인">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="암호화폐" target="블록체인">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="암호화폐" target="재판">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="암호화폐" target="역외">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="암호화폐" target="분산">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="암호화폐" target="성질">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="암호화폐" target="상">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="암호화폐" target="국경">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="암호화폐" target="연방">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="역외">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="법" target="재판">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="법" target="분산">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="법" target="연방">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="법" target="가상화폐">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="법" target="책임">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="법" target="준거법">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="법" target="국경">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="법" target="도드">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="법" target="인공지능">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="법" target="프랭크">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="법" target="틀">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="법" target="성질">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="주법">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="차이">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="인정">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="종래">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="이원">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="판례">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="이론">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="법" target="법원">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="중국" target="최첨단">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="블록체인" target="분산">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="블록체인" target="비트코인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="블록체인" target="인터넷">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="블록체인" target="네트워크">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="블록체인" target="송금">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="블록체인" target="상">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="블록체인" target="실험">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="블록체인" target="법정통화">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="블록체인" target="자산">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="블록체인" target="암호">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="블록체인" target="P2P">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="블록체인" target="발행자">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="블록체인" target="일종">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="블록체인" target="부동산">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="역외">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="분쟁">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="준거법">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="재판">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="법원">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="일종">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="국경">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="틀">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="분산" target="발행자">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="비트코인" target="가상화폐">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="비트코인" target="자산">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="비트코인" target="암호">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="비트코인" target="토큰">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="비트코인" target="네트워크">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="역외" target="재판">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="역외" target="준거법">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="역외" target="국경">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="재판" target="준거법">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="재판" target="국경">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="카드" target="신용">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="카드" target="수수료">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="카드" target="위조">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="카드" target="예금">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="카드" target="카드사">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="카드" target="인출">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="카드" target="인터넷">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="카드" target="가맹점">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="카드" target="마케팅">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="신용" target="카드사">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="연방" target="주법">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="연방" target="이원">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="이노베이션" target="오픈">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="오픈" target="어카운트">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="신주인수권" target="사채">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="신주인수권" target="부사">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="신주인수권" target="부">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="신주인수권" target="채">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="지급결제" target="한국은행">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="지급결제" target="경로">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지급결제" target="네트워크">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지급결제" target="모바일">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="지급결제" target="단어">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="지급결제" target="채무">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="지급결제" target="카드사">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="한국은행" target="단어">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="한국은행" target="네트워크">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="인공지능" target="빅데이터">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="인공지능" target="혁명">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="인공지능" target="책임">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="벤처" target="테크놀로지">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="예금" target="인터넷">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="예금" target="위조">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="가상화폐" target="개발자">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="가상화폐" target="자산">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="가상화폐" target="플랫폼">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="도드" target="프랭크">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="도드" target="개혁">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="프랭크" target="개혁">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="네트워크" target="단어">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="네트워크" target="노드">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="송금" target="자산">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이원" target="주법">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="단어" target="노드">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="증권" target="파생">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="국경" target="초월">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="자산" target="암호">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="리" target="테일">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="스마트폰" target="이성">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="모바일" target="폰">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="부사" target="부">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="부사" target="채">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="자금세탁" target="가상자산">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="자금세탁" target="특정금융정보법">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="자금세탁" target="테러">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="가상자산" target="국회">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="가상자산" target="특정금융정보법">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="가상자산" target="거래소">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="페이스북" target="리브">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="암호자산" target="독일">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="암호자산" target="토큰">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="무현금" target="현금통화">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="응답자" target="가구">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="환어음" target="매입">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="환어음" target="추심">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="카드사" target="가맹점">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="채" target="부">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="수입자" target="선적">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="수입자" target="서류">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="선적" target="서류">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="개발자" target="플랫폼">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="가맹점" target="마케팅">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="스마트" target="증거">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="스마트" target="폰">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="뱅크" target="트">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="가상통화" target="가상계좌">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="가상통화" target="실명">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="실명" target="위원회">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="위원회" target="시행">
+  <data key="d1">3.0</data>
+</edge>
+</graph></graphml>

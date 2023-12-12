@@ -1,0 +1,10 @@
+m2m	0.4329
+infrastructure	0.3902
+fintech	0.3279
+bank	0.3206
+machines	0.3133
+tolls	0.2719
+machinetomachine	0.2714
+modernisation	0.2583
+roadmap	0.2555
+transfers	0.2544

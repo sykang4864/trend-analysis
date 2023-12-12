@@ -1,0 +1,10 @@
+bank	0.4156
+keybank	0.3814
+fintech	0.3674
+interbank	0.3351
+currencies	0.3339
+cryptocurrencies	0.3254
+fedcoin	0.3212
+banknotes	0.3132
+token	0.3093
+bankers	0.3012

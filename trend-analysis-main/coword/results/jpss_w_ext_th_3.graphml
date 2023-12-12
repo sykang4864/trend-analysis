@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="long"/>
+<graph edgedefault="undirected"><node id="currency">
+  <data key="d0">136</data>
+</node>
+<node id="bank">
+  <data key="d0">486</data>
+</node>
+<node id="technology">
+  <data key="d0">241</data>
+</node>
+<node id="card">
+  <data key="d0">132</data>
+</node>
+<node id="credit">
+  <data key="d0">67</data>
+</node>
+<node id="transfer">
+  <data key="d0">42</data>
+</node>
+<node id="account">
+  <data key="d0">76</data>
+</node>
+<node id="innovation">
+  <data key="d0">145</data>
+</node>
+<node id="reserve">
+  <data key="d0">54</data>
+</node>
+<node id="platform">
+  <data key="d0">56</data>
+</node>
+<node id="transaction">
+  <data key="d0">153</data>
+</node>
+<node id="fintech">
+  <data key="d0">79</data>
+</node>
+<node id="explores">
+  <data key="d0">45</data>
+</node>
+<node id="debit">
+  <data key="d0">38</data>
+</node>
+<node id="core">
+  <data key="d0">29</data>
+</node>
+<node id="realtime">
+  <data key="d0">52</data>
+</node>
+<node id="scheme">
+  <data key="d0">30</data>
+</node>
+<node id="sepa">
+  <data key="d0">16</data>
+</node>
+<node id="form">
+  <data key="d0">31</data>
+</node>
+<node id="dlt">
+  <data key="d0">27</data>
+</node>
+<node id="inst">
+  <data key="d0">12</data>
+</node>
+<node id="sct">
+  <data key="d0">18</data>
+</node>
+<node id="fraud">
+  <data key="d0">87</data>
+</node>
+<node id="framework">
+  <data key="d0">65</data>
+</node>
+<node id="argues">
+  <data key="d0">50</data>
+</node>
+<node id="ecosystem">
+  <data key="d0">29</data>
+</node>
+<node id="security">
+  <data key="d0">92</data>
+</node>
+<node id="platforms">
+  <data key="d0">27</data>
+</node>
+<node id="blockchain">
+  <data key="d0">34</data>
+</node>
+<node id="correspondent">
+  <data key="d0">7</data>
+</node>
+<node id="council">
+  <data key="d0">13</data>
+</node>
+<node id="prevention">
+  <data key="d0">25</data>
+</node>
+<node id="fee">
+  <data key="d0">40</data>
+</node>
+<node id="interchange">
+  <data key="d0">32</data>
+</node>
+<node id="claims">
+  <data key="d0">22</data>
+</node>
+<node id="speed">
+  <data key="d0">42</data>
+</node>
+<node id="risk">
+  <data key="d0">49</data>
+</node>
+<node id="cbdc">
+  <data key="d0">26</data>
+</node>
+<node id="rtgs">
+  <data key="d0">25</data>
+</node>
+<node id="asset">
+  <data key="d0">48</data>
+</node>
+<node id="swift">
+  <data key="d0">46</data>
+</node>
+<node id="psd2">
+  <data key="d0">53</data>
+</node>
+<node id="partner">
+  <data key="d0">19</data>
+</node>
+<node id="monies">
+  <data key="d0">8</data>
+</node>
+<node id="schemes">
+  <data key="d0">38</data>
+</node>
+<node id="diffusion">
+  <data key="d0">14</data>
+</node>
+<node id="gpi">
+  <data key="d0">18</data>
+</node>
+<node id="discussions">
+  <data key="d0">24</data>
+</node>
+<node id="transfers">
+  <data key="d0">29</data>
+</node>
+<node id="merchant">
+  <data key="d0">35</data>
+</node>
+<node id="parameters">
+  <data key="d0">10</data>
+</node>
+<node id="secure">
+  <data key="d0">26</data>
+</node>
+<node id="protection">
+  <data key="d0">26</data>
+</node>
+<node id="intention">
+  <data key="d0">9</data>
+</node>
+<node id="infrastructure">
+  <data key="d0">68</data>
+</node>
+<node id="euro">
+  <data key="d0">47</data>
+</node>
+<node id="project">
+  <data key="d0">20</data>
+</node>
+<node id="lei">
+  <data key="d0">16</data>
+</node>
+<node id="identifier">
+  <data key="d0">9</data>
+</node>
+<edge source="currency" target="bank">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="currency" target="technology">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="currency" target="monies">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="currency" target="claims">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="technology">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="bank" target="account">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="bank" target="innovation">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="bank" target="reserve">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="bank" target="platform">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="bank" target="transaction">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="bank" target="fintech">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="bank" target="explores">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="bank" target="core">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="bank" target="realtime">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="bank" target="form">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="bank" target="framework">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="bank" target="argues">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="bank" target="ecosystem">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="bank" target="platforms">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="bank" target="correspondent">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="bank" target="claims">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="speed">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="risk">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="cbdc">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="rtgs">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="asset">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="swift">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="psd2">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="schemes">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="gpi">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="discussions">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="fraud">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="parameters">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="secure">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="protection">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="infrastructure">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="bank" target="project">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="technology" target="fintech">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="technology" target="innovation">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="technology" target="dlt">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="technology" target="transaction">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="technology" target="blockchain">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="technology" target="explores">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="technology" target="intention">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="card" target="credit">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="card" target="debit">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="card" target="merchant">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="credit" target="transfer">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="credit" target="debit">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="credit" target="scheme">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="credit" target="sepa">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="credit" target="council">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="credit" target="transfers">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="transfer" target="sepa">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="transfer" target="scheme">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="transfer" target="council">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="account" target="innovation">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="account" target="transaction">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="innovation" target="speed">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="innovation" target="diffusion">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="innovation" target="swift">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="transaction" target="fraud">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="fintech" target="partner">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="debit" target="security">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="scheme" target="council">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="scheme" target="sepa">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="scheme" target="sct">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="scheme" target="euro">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="sepa" target="council">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="inst" target="sct">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="sct" target="council">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="fraud" target="security">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="fraud" target="prevention">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="blockchain" target="asset">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="fee" target="interchange">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="swift" target="gpi">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="lei" target="identifier">
+  <data key="d1">3.0</data>
+</edge>
+</graph></graphml>

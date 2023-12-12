@@ -1,0 +1,10 @@
+bank	0.4731
+interbank	0.4088
+fintech	0.3634
+transfers	0.3229
+bitcoin	0.3174
+branches	0.3118
+currency	0.301
+debit	0.2908
+infrastructure	0.2867
+deposit	0.2761

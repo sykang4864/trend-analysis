@@ -1,0 +1,10 @@
+infrastructure	0.3224
+bank	0.3134
+solarisbank	0.3086
+schemes	0.2866
+reserve	0.271
+fintech	0.2675
+council	0.2658
+merchants	0.2654
+scheme	0.2604
+transfers	0.2599
